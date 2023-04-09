@@ -1,0 +1,2 @@
+# origin
+To study CS
